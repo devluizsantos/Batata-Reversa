@@ -56,6 +56,11 @@ button {
     font-weight: 600; 
     transition: opacity 0.3s;
     font-size: 16px;
+    transition: opacity 0.3s;
+}
+
+button:hover {
+    opacity: 0.8;
 }
 
 h1 {
@@ -64,4 +69,5 @@ h1 {
 
 p {
     font-size: 18px;
+
 }
